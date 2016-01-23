@@ -1,2 +1,2 @@
-# labs_learning_spring_op
+# labs_learning_spring_aop
 Spring AOP learning from JavaBrains
